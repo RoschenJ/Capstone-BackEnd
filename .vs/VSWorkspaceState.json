@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\CapstoneBackEndAPI",
-    "\\CapstoneBackEndAPI\\CapstoneBackEndAPI"
+    "\\CapstoneBackEndAPI\\CapstoneBackEndAPI",
+    "\\CapstoneBackEndAPI\\CapstoneBackEndAPI\\Controllers"
   ],
-  "SelectedNode": "\\CapstoneBackEndAPI\\CapstoneBackEndAPI\\Program.cs",
+  "SelectedNode": "\\CapstoneBackEndAPI\\CapstoneBackEndAPI\\Controllers\\MainController.cs",
   "PreviewInSolutionExplorer": false
 }
