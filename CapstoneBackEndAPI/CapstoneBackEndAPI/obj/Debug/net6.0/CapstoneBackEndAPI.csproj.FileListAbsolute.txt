@@ -1,0 +1,81 @@
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\bin\Debug\net6.0\CapstoneBackendAPI.exe
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\bin\Debug\net6.0\CapstoneBackendAPI.deps.json
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\bin\Debug\net6.0\CapstoneBackendAPI.runtimeconfig.json
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\bin\Debug\net6.0\CapstoneBackendAPI.dll
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\bin\Debug\net6.0\CapstoneBackendAPI.pdb
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.csproj.AssemblyReference.cache
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.AssemblyInfoInputs.cache
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.AssemblyInfo.cs
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.csproj.CoreCompileInputs.cache
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\obj\Debug\net6.0\scopedcss\bundle\CapstoneBackendAPI.styles.css
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.csproj.CopyComplete
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.dll
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\obj\Debug\net6.0\refint\CapstoneBackendAPI.dll
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.pdb
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.genruntimeconfig.cache
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision1\back-end\CapstoneBackendAPI\CapstoneBackendAPI\obj\Debug\net6.0\ref\CapstoneBackendAPI.dll
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\bin\Debug\net6.0\CapstoneBackendAPI.exe
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\bin\Debug\net6.0\CapstoneBackendAPI.deps.json
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\bin\Debug\net6.0\CapstoneBackendAPI.runtimeconfig.json
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\bin\Debug\net6.0\CapstoneBackendAPI.dll
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\bin\Debug\net6.0\CapstoneBackendAPI.pdb
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.csproj.AssemblyReference.cache
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.AssemblyInfoInputs.cache
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.AssemblyInfo.cs
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.csproj.CoreCompileInputs.cache
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\obj\Debug\net6.0\scopedcss\bundle\CapstoneBackendAPI.styles.css
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.csproj.CopyComplete
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.dll
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\obj\Debug\net6.0\refint\CapstoneBackendAPI.dll
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.pdb
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\obj\Debug\net6.0\CapstoneBackendAPI.genruntimeconfig.cache
+C:\Users\saeba\Desktop\BuilderTrendGoogleVision\back-end\CapstoneBackendAPI\obj\Debug\net6.0\ref\CapstoneBackendAPI.dll
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\bin\Debug\net6.0\CapstoneBackEndAPI.exe
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\bin\Debug\net6.0\CapstoneBackEndAPI.deps.json
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\bin\Debug\net6.0\CapstoneBackEndAPI.runtimeconfig.json
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\bin\Debug\net6.0\CapstoneBackEndAPI.dll
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\bin\Debug\net6.0\CapstoneBackEndAPI.pdb
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\CapstoneBackEndAPI.csproj.AssemblyReference.cache
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\CapstoneBackEndAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\CapstoneBackEndAPI.AssemblyInfoInputs.cache
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\CapstoneBackEndAPI.AssemblyInfo.cs
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\CapstoneBackEndAPI.csproj.CoreCompileInputs.cache
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\CapstoneBackEndAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\CapstoneBackEndAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\scopedcss\bundle\CapstoneBackEndAPI.styles.css
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\CapstoneBackEndAPI.csproj.CopyComplete
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\CapstoneBackEndAPI.dll
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\refint\CapstoneBackEndAPI.dll
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\CapstoneBackEndAPI.pdb
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\CapstoneBackEndAPI.genruntimeconfig.cache
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\ref\CapstoneBackEndAPI.dll
