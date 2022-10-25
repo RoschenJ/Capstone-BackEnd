@@ -3,8 +3,9 @@
     "",
     "\\CapstoneBackEndAPI",
     "\\CapstoneBackEndAPI\\CapstoneBackEndAPI",
-    "\\CapstoneBackEndAPI\\CapstoneBackEndAPI\\Controllers"
+    "\\CapstoneBackEndAPI\\CapstoneBackEndAPI\\Controllers",
+    "\\CapstoneBackEndAPI\\CapstoneBackEndAPI\\ViewModels"
   ],
-  "SelectedNode": "\\CapstoneBackEndAPI\\CapstoneBackEndAPI\\Controllers\\MainController.cs",
+  "SelectedNode": "\\CapstoneBackEndAPI\\CapstoneBackEndAPI\\CapstoneBackEndAPI.csproj",
   "PreviewInSolutionExplorer": false
 }

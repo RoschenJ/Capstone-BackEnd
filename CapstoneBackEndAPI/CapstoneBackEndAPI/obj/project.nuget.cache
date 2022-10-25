@@ -1,15 +1,33 @@
 {
   "version": 2,
-  "dgSpecHash": "OfVv4olKTsAzN3ppyk7ivQuFvA8nYtXPETw8wS1qenuowq2/sf2Pve1qz0wb+BtR/DbdS2UQEndYzduXvuNHkA==",
+  "dgSpecHash": "5ytHbmMZpzVspoCKFro3o45cztLXp7H4j5Q+ZI3gA61yFt8i0HYxNtGdKCwVrt4SnvabodS1sga5n7uTwt8Sbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\saeba\\Documents\\Fall 22\\Capstone\\Capstone Backend repo\\CapstoneBackEndAPI\\CapstoneBackEndAPI\\CapstoneBackEndAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\saeba\\.nuget\\packages\\google.api.commonprotos\\2.6.0\\google.api.commonprotos.2.6.0.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\google.api.gax\\4.1.1\\google.api.gax.4.1.1.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\google.api.gax.grpc\\4.1.1\\google.api.gax.grpc.4.1.1.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\google.apis\\1.56.0\\google.apis.1.56.0.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\google.apis.auth\\1.56.0\\google.apis.auth.1.56.0.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\google.apis.core\\1.56.0\\google.apis.core.1.56.0.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\google.cloud.vision.v1\\3.2.0\\google.cloud.vision.v1.3.2.0.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\google.longrunning\\3.0.0\\google.longrunning.3.0.0.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\google.protobuf\\3.21.0\\google.protobuf.3.21.0.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\grpc.auth\\2.46.3\\grpc.auth.2.46.3.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\grpc.core.api\\2.46.3\\grpc.core.api.2.46.3.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\grpc.net.client\\2.46.0\\grpc.net.client.2.46.0.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\grpc.net.common\\2.46.0\\grpc.net.common.2.46.0.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\saeba\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
     "C:\\Users\\saeba\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\saeba\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\saeba\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\saeba\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\saeba\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\saeba\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\saeba\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }
