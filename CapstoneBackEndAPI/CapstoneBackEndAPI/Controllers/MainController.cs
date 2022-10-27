@@ -14,8 +14,8 @@ namespace CapstoneBackendAPI.Controllers
         public JsonResult getFunction([FromBody] GoogleVisionViewModel nameModel)
         {
             var model = nameModel;
-            model.CallGoogleVision();
-            return Json(new { success = true });
+            
+            return Json(new { response = model.CallGoogleVisionAPI() });
         }
         
 
