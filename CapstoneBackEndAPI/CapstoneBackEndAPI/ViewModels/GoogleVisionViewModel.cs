@@ -23,6 +23,8 @@ namespace CapstoneBackEndAPI.ViewModels
             }
                         
         }
+
+        //Tags call
         public List<EntityAnnotation> CallGoogleVisionTags()
         {
             var client = ImageAnnotatorClient.Create();
@@ -37,7 +39,7 @@ namespace CapstoneBackEndAPI.ViewModels
             return labels;
         }
 
-        //TODO: Once OCR is implemented we will implement this.
+        //OCR call
         public List<EntityAnnotation> CallGoogleVisionOCR()
         {
             var client = ImageAnnotatorClient.Create();

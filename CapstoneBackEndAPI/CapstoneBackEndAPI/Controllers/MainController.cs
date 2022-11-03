@@ -11,7 +11,8 @@ namespace CapstoneBackendAPI.Controllers
     {
         [HttpPost]
         [Route("post")]
-        public JsonResult getFunction([FromBody] GoogleVisionViewModel nameModel)
+        [EnableCors("DefaultPolicy")]
+        public JsonResult postFunction([FromBody] GoogleVisionViewModel nameModel)
         {
             var model = nameModel;
             
