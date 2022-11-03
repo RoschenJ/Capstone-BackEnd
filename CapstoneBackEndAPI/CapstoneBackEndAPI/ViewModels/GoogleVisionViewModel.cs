@@ -37,18 +37,19 @@ namespace CapstoneBackEndAPI.ViewModels
             return labels;
         }
 
+        //TODO: Once OCR is implemented we will implement this.
         public List<EntityAnnotation> CallGoogleVisionOCR()
         {
             var client = ImageAnnotatorClient.Create();
             var image = Image.FromFile(path);
-            var labels = client.DetectLabels(image).ToList();
-            foreach (var label in labels)
+            var textAnnotations = client.DetectText(image).ToList();
+            foreach (var text in textAnnotations)
             {
-                System.Diagnostics.Debug.WriteLine(label);
+                System.Diagnostics.Debug.WriteLine(text);
             }
 
 
-            return labels;
+            return textAnnotations;
         }
     }
 }

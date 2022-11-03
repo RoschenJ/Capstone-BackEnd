@@ -1,5 +1,5 @@
-using CapstoneBackendAPI.ViewModels;
 using CapstoneBackEndAPI.ViewModels;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CapstoneBackendAPI.Controllers
