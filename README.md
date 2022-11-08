@@ -1,6 +1,15 @@
 # Google Vision API Backend
 
 ## Release Notes:
+11/08/2022
+<ul>
+	<li>
+		OCR calls added.
+	</li>
+	<li>
+		Connectivity between front and back end added (It now returns a JSON).
+	</li>
+</ul>
 10/27/2022
 <ul>
 	<li>
