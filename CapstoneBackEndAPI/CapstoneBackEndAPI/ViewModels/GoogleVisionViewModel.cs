@@ -7,10 +7,11 @@ namespace CapstoneBackEndAPI.ViewModels
 {
     public class GoogleVisionViewModel
     {
-        public string path { get; set; }
-        public string type { get; set; }  
+        public string FileName { get; set; }
+        public IFormFile FormFile { get; set; }
 
-        public List<EntityAnnotation> CallGoogleVisionAPI()
+
+       /* public List<EntityAnnotation> CallGoogleVisionAPI()
         {
             
             Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", "./bin/key.json");
@@ -52,6 +53,6 @@ namespace CapstoneBackEndAPI.ViewModels
 
 
             return textAnnotations;
-        }
+        }*/
     }
 }

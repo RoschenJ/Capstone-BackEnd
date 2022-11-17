@@ -38,7 +38,7 @@ app.UseRouting();
 
 app.UseCors("DefaultPolicy");
 
-app.UseAuthorization();
+/*app.UseAuthorization();*/
 
 app.MapControllers();
 
