@@ -901,24 +901,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\saeba\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Roschen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saeba\\Documents\\Fall 22\\Capstone\\Capstone Backend repo\\Capstone-BackEnd\\CapstoneBackEndAPI\\CapstoneBackEndAPI\\CapstoneBackEndAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Roschen\\Documents\\GitHub\\Capstone-BackEnd\\CapstoneBackEndAPI\\CapstoneBackEndAPI\\CapstoneBackEndAPI.csproj",
       "projectName": "CapstoneBackEndAPI",
-      "projectPath": "C:\\Users\\saeba\\Documents\\Fall 22\\Capstone\\Capstone Backend repo\\Capstone-BackEnd\\CapstoneBackEndAPI\\CapstoneBackEndAPI\\CapstoneBackEndAPI.csproj",
-      "packagesPath": "C:\\Users\\saeba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saeba\\Documents\\Fall 22\\Capstone\\Capstone Backend repo\\Capstone-BackEnd\\CapstoneBackEndAPI\\CapstoneBackEndAPI\\obj\\",
+      "projectPath": "C:\\Users\\Roschen\\Documents\\GitHub\\Capstone-BackEnd\\CapstoneBackEndAPI\\CapstoneBackEndAPI\\CapstoneBackEndAPI.csproj",
+      "packagesPath": "C:\\Users\\Roschen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Roschen\\Documents\\GitHub\\Capstone-BackEnd\\CapstoneBackEndAPI\\CapstoneBackEndAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\saeba\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Roschen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -926,7 +921,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
