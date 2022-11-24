@@ -33,7 +33,6 @@ builder.Services.AddControllers();
 
 
 app.UseHttpsRedirection();
-app.UseStaticFiles();
 app.UseRouting();
 
 app.UseCors("DefaultPolicy");

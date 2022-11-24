@@ -182,3 +182,4 @@ C:\Users\Roschen\Documents\GitHub\Capstone-BackEnd\CapstoneBackEndAPI\CapstoneBa
 C:\Users\Roschen\Documents\GitHub\Capstone-BackEnd\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\CapstoneBackEndAPI.pdb
 C:\Users\Roschen\Documents\GitHub\Capstone-BackEnd\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\CapstoneBackEndAPI.genruntimeconfig.cache
 C:\Users\Roschen\Documents\GitHub\Capstone-BackEnd\CapstoneBackEndAPI\CapstoneBackEndAPI\obj\Debug\net6.0\ref\CapstoneBackEndAPI.dll
+C:\Users\saeba\Documents\Fall 22\Capstone\Capstone Backend repo\Capstone-BackEnd\CapstoneBackEndAPI\CapstoneBackEndAPI\bin\Debug\net6.0\CapstoneBackEndAPI.staticwebassets.runtime.json

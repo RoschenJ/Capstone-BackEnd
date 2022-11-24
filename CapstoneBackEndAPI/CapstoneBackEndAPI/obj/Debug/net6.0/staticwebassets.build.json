@@ -1,19 +1,11 @@
 {
   "Version": 1,
-  "Hash": "rBlbLCsT1WxS4Jtbpofmz4ynSrOwt/XqvoJUqJYBr9E=",
+  "Hash": "BF/izqSxThpQX4OWUscHPaKgfjWk8cIMzQc6FObxNHc=",
   "Source": "CapstoneBackEndAPI",
   "BasePath": "_content/CapstoneBackEndAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [
-    {
-      "Name": "CapstoneBackEndAPI\\wwwroot",
-      "Source": "CapstoneBackEndAPI",
-      "ContentRoot": "C:\\Users\\Roschen\\Documents\\GitHub\\Capstone-BackEnd\\CapstoneBackEndAPI\\CapstoneBackEndAPI\\wwwroot\\",
-      "BasePath": "_content/CapstoneBackEndAPI",
-      "Pattern": "**"
-    }
-  ],
+  "DiscoveryPatterns": [],
   "Assets": []
 }
